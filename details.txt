@@ -1,1 +1,5 @@
+tayyababranch
+We are collaborating on GitHub for this part of the assignment. The key learning points are branching, committing, and creating Pull Requests. My commits are focused on fulfilling the Step 3 requirements. This demonstrates my understanding of a distributed collaboration workflow.
+
 This is the details part written by Dua.
+main
