@@ -1,1 +1,7 @@
+tayyababranch
 My three commits (introduction, details, and conclusion) are now complete. The branch tayyababbranch is fully updated with all required changes. The next step is to create a Pull Request for the Team Leader to review. This completes my required contribution to the GitHub repository.
+dua_branch
+This is the conclusion part written by Dua.
+This is the conclusion part written by Arooj.
+main
+main
